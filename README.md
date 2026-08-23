@@ -1,4 +1,8 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+### Date: 29/08/2026
+### Name: Jannathul Shaban.A
+### Reg. No.: 212225220043
+### Dept.: B.Tech-IT
 
 ## Aim: 
 
@@ -120,7 +124,17 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+<img width="476" height="440" alt="Screenshot 2026-08-23 205914" src="https://github.com/user-attachments/assets/995f097d-4ff6-4222-900f-c2cb0af42099" />
 
+<img width="1362" height="768" alt="image_cf52f440" src="https://github.com/user-attachments/assets/9cdeb21a-03ce-4852-979d-144c44edbb03" />
+
+<img width="1097" height="526" alt="Screenshot 2026-08-23 221209" src="https://github.com/user-attachments/assets/2f0c3f90-d0f7-4f7b-b58c-fd1872152213" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-06 112900" src="https://github.com/user-attachments/assets/a142ae80-33d4-4e9a-ba3d-fb90e057d4ee" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-06 112923" src="https://github.com/user-attachments/assets/c9667bf6-5dae-4cf2-834a-b2ee813d93da" />
+
+<img width="1365" height="768" alt="image_74af02dd" src="https://github.com/user-attachments/assets/2e179631-c213-4beb-aac8-3572d715e2bb" />
 
 
 ## Result: 
